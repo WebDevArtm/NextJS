@@ -1,0 +1,21 @@
+.main {
+    margin-top: 60px;
+    height: 100%;
+}
+
+.navigation {
+    position: fixed;
+    height: 60px;
+    right: 0;
+    left: 0;
+    top: 0;
+    background: darkblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+}
+
+.navigation a {
+    color: #fff;
+    text-decoration: none;
+}
